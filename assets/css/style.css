@@ -361,7 +361,7 @@ body {
 }
 
 .overlay .container > .information > .title::after {
-    content: "NC:RP";
+    content: "CPRP";
     position: absolute;
     bottom: -4vw;
     left: -2vw;
