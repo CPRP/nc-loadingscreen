@@ -6,7 +6,7 @@ Config.ServerIP = "173.208.150.186";
 Config.Socials = [
     {name: "discord", label: "Discord", description: "Click here to copy the link and join our Discord server!", icon: "assets/media/icons/discord.png", link: "https://discord.gg/nnvz7aV8c4"},
     {name: "tiktok", label: "tiktok", description: "A Tiktok page will open for us soon, feel free to join and follow us!", icon: "assets/media/icons/tiktok.png", link: "https://www.tiktok.com/@criminalsparadiserp"},
-    {name: "patreon", label: "Donations", description: "For donations, feel free to look at the room - #Donations-to-the-server at Discord.", icon: "assets/media/icons/tebex.png", link: "https://www.patreon.com/criminalsparadiserp"},
+    {name: "patreon", label: "Donations", description: "For donations, feel free to look at the channel - #Donations-to-the-server at Discord.", icon: "assets/media/icons/tebex.png", link: "https://www.patreon.com/criminalsparadiserp"},
 ];
 
 Config.HideoverlayKeybind = 112 // JS key code https://keycode.info
@@ -18,7 +18,7 @@ Config.Staff = [
     {name: "George Griffin", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
     {name: "Coltron Scott", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
     {name: "Zeke Price", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
-    {name: "Brandin Martinez", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
+    {name: "Brandin Martinez", description: "Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
 
 
 ];
