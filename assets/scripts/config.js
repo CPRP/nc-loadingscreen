@@ -19,6 +19,10 @@ Config.Staff = [
     {name: "Coltron Scott", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
     {name: "Zeke Price", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
     {name: "Brandin Martinez", description: "Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
+    {name: "Ellie Martinez", description: "Admin & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
+    {name: "Firoza Green", description: "Moderator", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
+    {name: "Jack Wood", description: "Moderator", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
+    {name: "Scorpion King", description: "Moderator", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
 
 
 ];
