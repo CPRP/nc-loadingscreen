@@ -19,9 +19,7 @@ Config.Staff = [
     {name: "Coltron", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
     {name: "Zak", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
     {name: "Ellie", description: "Admin & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
-    {name: "Fire", description: "Moderator", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
-
-
+    {name: "Jesse", description: "Moderator", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
 ];
 
 // Categories
