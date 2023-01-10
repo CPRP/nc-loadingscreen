@@ -14,12 +14,12 @@ Config.CustomBindText = "F1"; // leave as "" if you don't want the bind text in 
 
 // Staff list
 Config.Staff = [
-    {name: "Jordan", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
-    {name: "Zak", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
+    {name: "Jordan", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/967905287673618512/1061759314102079499/Jordan.png"},
+    {name: "Zak", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/967905287673618512/1062177939480920134/Zak.png"},
     {name: "George", description: "Owner & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
-    {name: "Coltron", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
-    {name: "Ellie", description: "Admin & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
-    {name: "Jesse", description: "Moderator", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/971947635692937236/978844525692854272/unknown.png"},
+    {name: "Coltron", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/967905287673618512/1061764842836475965/Coltron.png"},
+    {name: "Ellie", description: "Admin & Dev", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/967905287673618512/1061791051750326372/Ellie.png"},
+    {name: "Jesse", description: "Moderator", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/967905287673618512/1061760851108970526/Jesse.png"},
 ];
 
 // Categories
